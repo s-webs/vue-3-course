@@ -1,4 +1,4 @@
-# ulbitv
+# Курс по Vue JS от Ulbi TV
 
 ## Project setup
 ```
